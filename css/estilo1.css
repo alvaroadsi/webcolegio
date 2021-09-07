@@ -1,13 +1,30 @@
 body{
-    background-color: cadetblue;
+    background-color: lightskyblue;
 }
 header{
     color:yellow;
     font-family:Arial, Helvetica, sans-serif;
     font-size:45px;
+    background-image: url("https://banner2.cleanpng.com/20180228/ckw/kisspng-back-to-school-xiamen-ocean-vocational-college-back-to-school-5a97565840f976.9320194815198674802661.jpg");
+      
+}
+nav{
+    background-color:gold;
+    color: purple;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
 }
 footer{
     font-family: fantasy;
     color:whitesmoke;
     font-size:25px;
+    background-color:darkslategray;
+}
+aside{
+    width: 45%;
+    color:yellow;
+}
+article{
+    color:red;
+    width: 45%;
 }
