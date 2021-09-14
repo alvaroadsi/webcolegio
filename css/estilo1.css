@@ -5,8 +5,9 @@ header{
     color:yellow;
     font-family:Arial, Helvetica, sans-serif;
     font-size:45px;
-    background-image: url("https://banner2.cleanpng.com/20180228/ckw/kisspng-back-to-school-xiamen-ocean-vocational-college-back-to-school-5a97565840f976.9320194815198674802661.jpg");
-      
+    background-image: url("https://banner2.cleanpng.com/20180228/ckw/kisspng-back-to-school-xiamen-ocean-vocational-college-back-to-school-5a97565840f976.9320194815198674802661.jpg"); 
+   /* background: url('banner3.jpg'); 
+    background-image: url('banner3.jpg');  */
 }
 nav{
     background-color:gold;
@@ -19,6 +20,16 @@ footer{
     color:whitesmoke;
     font-size:25px;
     background-color:darkslategray;
+    text-align: center;
+
+}
+section{
+    font-family: fantasy;
+    color:lightskyblue; 
+    font-size:45px;
+    background-color:darkslategray;
+    text-align: center;
+
 }
 aside{
     width: 45%;
