@@ -1,5 +1,5 @@
 body{
- /*   background-color: lightskyblue;  */
+   background-color: lightskyblue; 
     
 }
 header {
@@ -24,6 +24,7 @@ footer{
     font-size:25px;
     background-color:darkslategray;
     text-align: center;
+    height:auto;
 
 }
 section{
@@ -32,13 +33,24 @@ section{
     font-size:45px;
     background-color:darkslategray;
     text-align: center;
-
 }
-aside{
-    width: 45%;
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#izquierdo{
+    width: 50%;
+    float: left;
+    height:auto;
+    font-size:25px;
     color:yellow;
 }
-article{
-    color:red;
-    width: 45%;
+#derecho{
+    width: 50%;
+    float: right;
+    height:auto;
+    font-size:25px;
+    color:blue;
 }
