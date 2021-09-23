@@ -2,7 +2,7 @@ body{
    background-color: lightskyblue; 
     
 }
-header {
+header{
     color:darkblue;
     background: lightgreen;
     font-family:Arial, Helvetica, sans-serif;
@@ -39,6 +39,23 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.cajaAmarilla{
+    background-color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:tomato;
+}
+
+#cajita3{
+    background-color:blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:tomato;
+}
+#cajita4{
+    background-color:red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:tomato;
 }
 #izquierdo{
     width: 50%;
